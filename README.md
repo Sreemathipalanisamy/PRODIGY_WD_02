@@ -4,15 +4,15 @@ This project is a simple stopwatch web application built using HTML, CSS, and Ja
 
 ### Features:
 
-- Start/Stop : Begin or pause the stopwatch timer.
-- Reset : Reset the stopwatch to zero.
-- Lap : Record lap times while the stopwatch is running.
+- **Start/Stop :** Begin or pause the stopwatch timer.
+- **Reset :** Reset the stopwatch to zero.
+- **Lap :** Record lap times while the stopwatch is running.
 
 ### Technologies Used:
 
-- HTML : Provides the structure of the web page.
-- CSS : Styles the appearance of the stopwatch and buttons.
-- JavaScript : Implements the functionality of the stopwatch, including time tracking and lap recording.
+- **HTML :** Provides the structure of the web page.
+- **CSS :** Styles the appearance of the stopwatch and buttons.
+- **JavaScript :** Implements the functionality of the stopwatch, including time tracking and lap recording.
 
 ### Usage:
 
